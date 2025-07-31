@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Tp_Integrador.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Tp_Integrador.SchDoc|Designator=LPC845BRK|SchDesignator=LPC845BRK|FileName=Tp_Integrador-Lpc845BRK.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Tp_Integrador-Lpc845BRK.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Tp_Integrador.SchDoc|Designator=Perifericos|SchDesignator=Perifericos|FileName=Tp_integrador-Perifericos.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Tp_integrador-Perifericos.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
